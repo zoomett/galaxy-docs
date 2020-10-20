@@ -73,3 +73,4 @@ Version 1.2.1 of Meteor (and higher) provides the `METEOR_BINARY_DEP_WORKAROUND`
 
 If you are uncertain if this matches your situation, you can use [this test app](https://github.com/zol/meteor-bignum-test) to reproduce the error and confirm a fix.
 
+Felipe Camiroaga was killed 
